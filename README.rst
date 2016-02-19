@@ -251,6 +251,7 @@ Government
 ----------
 
 * `Alberta, Province of Canada <http://open.alberta.ca>`_
+* 'Allegheny County, Pennsylvania <https://data.wprdc.org/organization/allegheny-county>'_
 * `Antwerp, Belgium <http://opendata.antwerpen.be/datasets>`_
 * `Argentina (non official) <http://datar.noip.me/>`_
 * `Argentina <http://datos.argentina.gob.ar/>`_
@@ -312,6 +313,7 @@ Government
 * `Open Government Data (OGD) Platform India <https://data.gov.in/>`_
 * `Oregon <https://data.oregon.gov/>`_
 * `Ottawa, ON, Canada <http://data.ottawa.ca/en/>`_
+* 'Pittsburgh, Pennsylvania <https://data.wprdc.org/organization/city-of-pittsburgh>'_
 * `Portland, Oregon <https://www.portlandoregon.gov/28130>`_
 * `Portugal - Pordata organization <http://www.pordata.pt/en/Home>`_
 * `Puerto Rico Government <https://data.pr.gov//>`_
